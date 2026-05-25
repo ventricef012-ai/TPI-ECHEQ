@@ -13,7 +13,9 @@ desarrollado para el Trabajo Práctico Integrador de Organización Empresarial -
 2. Abrir una terminal en la carpeta del proyecto
 3. Ejecutar el siguiente comando:
 
-``` python Bot_echeq.py
+` ` `
+python Bot_echeq.py
+` ` `
 
 ### Archivos
 - `Bot_echeq.py` — Código principal del simulador
